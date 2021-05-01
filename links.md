@@ -1,0 +1,4 @@
+- midi plugin w juce: https://forum.juce.com/t/generating-midi-data-for-use-in-daws/34495
+- real-time midi data: https://github.com/patrickkidd/pyrtmidi
+- keras model w juce: https://github.com/joaromera/autoencoders
+- 
